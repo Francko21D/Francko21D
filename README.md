@@ -4,7 +4,7 @@
 		<img alt="Gojo saludando" src="https://i.postimg.cc/Px9tTsw5/gojo.gif" />
 	</td>
 	<td>
-			<p> 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌  𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💙 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 <br> • 𝑨𝒗𝒆𝒓𝒚 𝒔𝒆𝒓𝒗𝒊𝒄𝒆𝒔 </br> • 𝑭𝒊𝒓𝒔𝒕 𝑹𝒂𝒕𝒆 𝑪𝒐𝒎𝒑𝒖𝒕𝒊𝒏𝒈 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔 </br>From web applications from informational websites to complete applications with authentication, database and real-time interaction. With the ability to develop from configuration, design, programming and publication.  </p>
+			<p> 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌  𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 💙 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 💙 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝑩𝒂𝒄𝒌-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 <br> • 𝑨𝒗𝒆𝒓𝒚 𝒔𝒆𝒓𝒗𝒊𝒄𝒆𝒔 </br> • 𝑭𝒊𝒓𝒔𝒕 𝑹𝒂𝒕𝒆 𝑪𝒐𝒎𝒑𝒖𝒕𝒊𝒏𝒈 𝑺𝒆𝒓𝒗𝒊𝒄𝒆𝒔 </br>From web applications from informational websites to complete applications with authentication, database and real-time interaction. With the ability to develop from configuration, design, programming and publication.  </p>
 		<p align="center"> <a href="https://twitter.com"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/averyservices/"> <img src="https://img.icons8.com/color/35/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/avery.services/"> <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png" /> </a>
 </p>
         </br>
